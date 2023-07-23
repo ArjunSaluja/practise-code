@@ -1,0 +1,4 @@
+name: html-css-project
+recipe: lemp
+config:
+  webroot: .

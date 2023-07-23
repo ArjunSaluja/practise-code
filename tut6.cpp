@@ -20,17 +20,18 @@ return 0;
 //switch case statement
 switch(age){
     case 17: 
-    cout<<"you are 17";
+    cout<<"you are 17"<<endl;
     break;
     case 18: 
-    cout<<"you are 18";
+    cout<<"you are 18"<<endl;
     break;
     case 19: 
-    cout<<"you are 19";
+    cout<<"you are 19"<<endl;
     break;
     default:
     cout<<"dont know"<<endl;
     break;
 
     return 0;
+}
 }

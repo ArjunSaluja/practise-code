@@ -7,6 +7,8 @@ int main(){
     cout<<marks[2] <<endl;
     cout<<marks[3] <<endl;
     return 0;
+
+/*for (int i=0; i<4;i++){
+cout<< "The value of i is "<<i<< "i"<<marks[i]<<endl;}
+return 0;*/
 }
-for (int i=0; i<4;i++){
-cout<< "The value of i is "<<i<< "i"<<maks[i]<<endl;}
